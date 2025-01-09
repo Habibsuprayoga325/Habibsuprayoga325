@@ -1,6 +1,7 @@
 <h2> Hi, I'm Habib Suprayoga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Pelita  Bangsa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm Currently learning<a href="https://www.thoughtworks.com">Mobile App Development</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I'm Habib,I'm a Engineer Software at[Pelita Bangsa University](https://www.pelitabangsa.ac.id/)<br><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</br>I'm Currently learning<a href="https://www.mobileApp.com">Mobile App Development</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <br><h3 align="left">Languages :</h3>
